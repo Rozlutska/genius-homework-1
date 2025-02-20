@@ -158,3 +158,7 @@ ul {
   color: var(--color-secondary-copyright);
   font-size: 13px;
 }
+
+.images-skin {
+  border-radius: 50%;
+}
